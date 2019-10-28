@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-DrawViewDemo/Pods-DrawViewDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/ESTabBarController-swift/ESTabBarController_swift.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
